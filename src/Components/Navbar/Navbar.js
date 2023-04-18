@@ -15,7 +15,7 @@ export const Navbar = () => {
       <li>
         <a
           href="/"
-          class="font-medium tracking-wide text-white transition-colors duration-200 hover:text-deep-purple-accent-400"
+          className="font-medium tracking-wide text-white transition-colors duration-200 hover:text-deep-purple-accent-400"
         >
           Courses
         </a>
@@ -23,7 +23,7 @@ export const Navbar = () => {
       <li>
         <a
           href="/"
-          class="font-medium tracking-wide text-white transition-colors duration-200 hover:text-deep-purple-accent-400"
+          className="font-medium tracking-wide text-white transition-colors duration-200 hover:text-deep-purple-accent-400"
         >
           Dashboard
         </a>
